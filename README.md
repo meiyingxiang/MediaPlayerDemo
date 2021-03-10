@@ -1,0 +1,2 @@
+# MediaPlayerDemo
+使用MediaPlayer在线播放视频,横竖屏切换,后台保留播放状态等测试Demo
